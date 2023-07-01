@@ -1,0 +1,56 @@
+/* payment  */
+
+.body2 {
+    background-color: #f16e00;
+    align-items: center;
+    margin-left: 25%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.log {
+    height: 120px;
+    width: 120px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+p {
+    font-size: 25px;
+    color: #fff;
+}
+
+
+#nom {
+    margin-left: 1.8%;
+    
+}
+
+label {
+    font-size: 20px;
+    color: #fff;
+}
+
+.num {
+    height: 40px;
+    width: 150px;
+    border: #fff solid;
+    border-radius: 4px;
+}
+
+.n {
+    font-size: 20px;
+}
+
+.val {
+    height: 40px;
+    width: 150px;
+    border: #fff solid;
+    border-radius: 4px;
+}
+
+a {
+    color: #333;
+    text-decoration: none;
+}
